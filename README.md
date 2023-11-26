@@ -2,6 +2,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=DoHKapJleoHe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 <h2 align="left">Java backend developer</h2>
+I am a 4th year student at the Faculty of Informational Technologies of Novosibirsk State University
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
@@ -13,6 +14,9 @@
 
 <a href="https://spring.io/"> 
 <img align="left" alt="Java" height="50px" style="margin-right:15px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
+
+<a href="https://go.dev/">
+<img align="left" alt="Go" height="50px" style="margin-right:15px" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" />
 
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
