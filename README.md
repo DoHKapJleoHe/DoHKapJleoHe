@@ -59,6 +59,16 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=PhotocenterInformationalSystem&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  </br>
+
+ <a href="https://github.com/DoHKapJleoHe/Wireframe">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=Wireframe&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
+ </br>
+
+ <a href="https://github.com/DoHKapJleoHe/Photoeditor">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=Photoeditor&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
+ </br>
 </p>
 
 <!--
