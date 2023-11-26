@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">My name is Eduard. I am Java backend developer</h2>
+<h2 align="left">Java backend developer</h2>
 <!--
 **DoHKapJleoHe/DoHKapJleoHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
