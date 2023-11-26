@@ -48,6 +48,18 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 <a href="https://www.linux.org/"> 
 <img align="left" alt="Linux" height="50px" style="margin-right:15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/640px-Tux.svg.png" />
 
+</br>
+</br>
+</br>
+
+<h2 align="left">💻 Some statistics:</h2>
+
+<p align="center">
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoHKapJleoHe&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+</a>
+</p>
+
 <!--
 **DoHKapJleoHe/DoHKapJleoHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
