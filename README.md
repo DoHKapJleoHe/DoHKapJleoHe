@@ -6,6 +6,8 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
+<img align="left" alt="REST" height="50px"/ style="margin-right:15px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
+
 <a href="https://git-scm.com/">
 <img align="left" alt="git" height="50px"/ style="margin-right:15px" src="https://user-images.githubusercontent.com/87114350/189270542-ee6deaa7-537e-4632-878a-ac25fb03a06f.png" />
 
