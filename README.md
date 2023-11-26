@@ -56,7 +56,7 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 
 <p align="center">
 <a href="https://github.com/DoHKapJleoHe/PhotocenterInformationalSystem">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Just0Lina&repo=School21-CPP-Projects&theme=nightowl&cache_seconds=2000" weight=50%/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=PhotocenterInformationalSystem&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
  </br>
 </p>
