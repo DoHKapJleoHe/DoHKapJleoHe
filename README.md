@@ -53,22 +53,31 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 </br>
 
 <h2 align="left">💻 Some statistics:</h2>
+ <p align="center">
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoHKapJleoHe&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+</a>
 
+ ## ✨Fav repositories:
 <p align="center">
+
+ 
 <a href="https://github.com/DoHKapJleoHe/PhotocenterInformationalSystem">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=PhotocenterInformationalSystem&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
+<a href="https://github.com/DoHKapJleoHe/SimpleSnake">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=SimpleSnake&theme=nightowl&cache_seconds=2000" weight=50%/>
+</a>
  </br>
+
+
 
  <a href="https://github.com/DoHKapJleoHe/Wireframe">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=Wireframe&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
- </br>
-
  <a href="https://github.com/DoHKapJleoHe/Photoeditor">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DoHKapJleoHe&repo=Photoeditor&theme=nightowl&cache_seconds=2000" weight=50%/>
 </a>
- </br>
 </p>
 
 <!--
