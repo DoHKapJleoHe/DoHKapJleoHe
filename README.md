@@ -4,7 +4,6 @@
 <h2 align="left">Java backend developer</h2>
 I am a 4th year student at the Faculty of Informational Technologies of Novosibirsk State University
 
-<p>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 
 <a href="https://git-scm.com/">
