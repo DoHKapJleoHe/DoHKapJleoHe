@@ -52,6 +52,7 @@ I am a 4th year student at the Faculty of Informational Technologies of Novosibi
 </br>
 </br>
 
+
 <h2 align="left">💻 Some statistics:</h2>
  <p align="center">
 <a href="https://github.com/github-readme-stats">
