@@ -2,7 +2,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=DoHKapJleoHe&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 <h2 align="left">Java backend developer</h2>
-I am a 4th year student at the Faculty of Informational Technologies of Novosibirsk State University
+I am a 1th year master at the Faculty of Informational Technologies of Novosibirsk State University
 
 <h2 align="left">Technologies and Tools I use:</h2>
 
